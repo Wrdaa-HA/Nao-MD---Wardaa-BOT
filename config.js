@@ -35,9 +35,9 @@ const readMore = more.repeat(4001)
 global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
-global.nomorwa = '0'
+global.nomorbot = '6285939391878'
+global.nomorown = '6285939391878'
+global.nomorwa = '085939391878'
 
 
 /*============= WATERMARK =============*/
